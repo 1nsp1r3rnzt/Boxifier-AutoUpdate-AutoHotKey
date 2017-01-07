@@ -33,7 +33,7 @@ Just click on the ahk file and it will run.
 
 ## Meta
 
-Your Name – [@king99immortal](https://twitter.com/king99immortal) – admin@codehealthy.com
+Ranjit Saini – [@king99immortal](https://twitter.com/king99immortal) – admin@codehealthy.com
 
 Distributed under the Gnu license. See ``LICENSE`` for more information.
 
