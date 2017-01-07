@@ -7,7 +7,7 @@ If you don't have the source file, You can run the compiled version boxifier upd
 Download that from the release
 
 ## Installation
-
+Download https://github.com/1nsp1r3rnzt/Boxifier-AutoUpdate-AutoHotKey/releases/latest
 
 Windows:
 
